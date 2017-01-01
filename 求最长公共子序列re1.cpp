@@ -23,6 +23,8 @@ int main()
 	i=l1;
 	j=l2;
  	while(i&&j)
+ 	if(z.length()==c[l1][l2]) break;
+ 	else
  	if(a[i-1]==b[j-1])
  	{
  		z=a[--i]+z;
